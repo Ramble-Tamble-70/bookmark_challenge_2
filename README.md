@@ -1,8 +1,12 @@
 # Bookmark_manager_challenge
 
-<img src="https://miro.com/app/live-embed/uXjVO9sGhD0=/?moveToViewport=-728,-270,1452,609">
+# USER STORIES DOMAIN MODELLING (USING MIRO BOARD)
+<div>
+<br>
+<<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO9sGhD0=/?moveToViewport=-664,-257,1350,545" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+</div>
 
-Link to the domain model: https://miro.com/app/board/uXjVO9sGhD0=/?share_link_id=405478026260
+- Alt' link to the domain model: https://miro.com/app/board/uXjVO9sGhD0=/?share_link_id=405478026260
 
 To begin Project:
 run git --init - intialize repo
@@ -26,10 +30,10 @@ I would like to see a list of bookmarks
 
 # USER STORY 2
 As a busy user
-So that I can save a website address
+So that I can see a website address
 I want to add the site's address and title to a bookmark manager
 
 # USER STORY
 'As a user
 So that I can see certain websites later
-I want to add new bookmarks to my bookmark manager
+I want to be able to add new bookmarks to my bookmark manager
