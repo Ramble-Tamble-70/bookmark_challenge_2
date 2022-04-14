@@ -3,7 +3,7 @@
 # USER STORIES DOMAIN MODELLING (USING MIRO BOARD)
 <div>
 <br>
-<<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO9sGhD0=/?moveToViewport=-664,-257,1350,545" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO9sGhD0=/?moveToViewport=-664,-257,1350,545" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
 - Alt' link to the domain model: https://miro.com/app/board/uXjVO9sGhD0=/?share_link_id=405478026260
