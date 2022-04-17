@@ -1,12 +1,8 @@
 # Bookmark_manager_challenge
 
 # USER STORIES DOMAIN MODELLING (USING MIRO BOARD)
-<div>
-<br>
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO9sGhD0=/?moveToViewport=-664,-257,1350,545" frameBorder="0" scrolling="no" allowFullScreen></iframe>
-</div>
 
-- Alt' link to the domain model: https://miro.com/app/board/uXjVO9sGhD0=/?share_link_id=405478026260
+- Link to the domain model: https://miro.com/app/board/uXjVO9sGhD0=/?share_link_id=405478026260
 
 To begin Project:
 run git --init - intialize repo
@@ -33,7 +29,12 @@ As a busy user
 So that I can see a website address
 I want to add the site's address and title to a bookmark manager
 
-# USER STORY
-'As a user
+# USER STORY 3
+As a user
 So that I can see certain websites later
-I want to be able to add new bookmarks to my bookmark manager
+I want to be able to see & visit a list of saved bookmarks as links
+
+# USER STORY 4
+As a user
+So I can keep my bookmarks up-to-date
+I want to be able to delete a bookmark in Bookmark Manager

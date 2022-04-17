@@ -1,4 +1,4 @@
-require 'bookmark.rb'
+require 'bookmark'
 
 describe Bookmark do
   describe '.all' do
@@ -25,6 +25,16 @@ describe Bookmark do
 
       bookmarks = Bookmark.all
       expect(bookmarks[0].title).to include('New Bookmark')
+    end
+
+    describe 'delete' do
+      it 'deletes the given bookmark' do
+        bookmark = Bookmark.create(title: 'Makers Academy', url: 'http://makersacademy.com')
+
+        Bookmark.delete(id: bookmark.id)
+
+        expect(Bookmark.all.length).to eq(0)
+      end
     end
   end
 end
